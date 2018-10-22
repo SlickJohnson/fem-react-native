@@ -4,8 +4,6 @@ import { Fancy } from './app/Fancy';
 
 export default class App extends Component {
   render() {
-    return (
-      <Fancy />
-    );
+    return <Todo />;
   }
 }
