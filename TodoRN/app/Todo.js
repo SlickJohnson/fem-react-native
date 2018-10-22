@@ -5,7 +5,6 @@ import {
   View,
   TextInput,
   TouchableOpacity,
-  Switch
 } from 'react-native';
 
 export class Todo extends Component {
