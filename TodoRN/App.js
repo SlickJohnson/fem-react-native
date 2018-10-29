@@ -5,6 +5,6 @@ import { Reddit } from "./app/Reddit";
 
 export default class App extends Component {
   render() {
-    return <Reddit />;
+    return <Todo />;
   }
 }
